@@ -1,9 +1,11 @@
 # Node_Js_Assignment
 This repository contains the code of the node js assignment. It is extended version of the Javascript assignment.
 ## How the run the project
+To install all the required dependencies run the following command in root directory of the project
 ```sh
 npm install
 ```
+To run the server run
 ```sh
 nodemon app.js
 ```
