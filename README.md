@@ -16,7 +16,7 @@ nodemon app.js
 http://127.0.0.1:3000/all/New York
 ```
 * If we search by using country name it works also ,but fetch data of a default city.
-* ```
+```
 http://127.0.0.1:3000/all/Bangladesh
 ```
 The above url returns the data of Dhaka, Bangladesh by default
