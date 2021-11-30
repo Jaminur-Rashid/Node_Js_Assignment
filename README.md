@@ -1,7 +1,7 @@
 # Node_Js_Assignment
 This repository contains the code of the node js assignment. It is extended version of the Javascript assignment.
 
-#Used Technologies
+# Used Technologies
 * Node js
 * Express js
 * Ejs
