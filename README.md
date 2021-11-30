@@ -9,6 +9,17 @@ To run the server run
 ```sh
 nodemon app.js
 ```
+# Project Limitation
+* Write file from server in case of duplicate api call is not implemented yet
+* Can search wheather only by using city name .For example -
+```
+http://127.0.0.1:3000/all/New York
+```
+* Can,t handle request as follows-
+```
+http://127.0.0.1:3000/all/Bangladesh/Dhaka
+```
+
 # Used Technologies
 * Node js
 * Express js
@@ -22,5 +33,3 @@ nodemon app.js
 * Prevented user to hit the forecast api call more than once in every 30 seconds.
 * Toggle to display data in celcious and farenheit
 
-# Project Limitation
-* Write file from server in case of duplicate api call is not implemented yet
